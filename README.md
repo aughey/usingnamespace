@@ -1,1 +1,1 @@
-# usingnamespace
+# Skeleton C++ structure for experimentation
